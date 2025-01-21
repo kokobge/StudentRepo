@@ -4,7 +4,7 @@ void testMethod1()
   {
   //First command x = y + z
   //Second commnad print(x)
-  // Edit made by Kokob 230115082
+  // Edit made by Kokob_Gebrezgabiher_230115082
 
   //Last line print('First time using github')
 }
